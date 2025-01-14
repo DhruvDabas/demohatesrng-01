@@ -1,6 +1,4 @@
 Hi there 👋
-I'm Dhruv. <br>
-Currently Learning Machine Learning 
 
 
 <!---
